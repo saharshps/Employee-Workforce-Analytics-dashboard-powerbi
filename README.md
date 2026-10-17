@@ -4,9 +4,8 @@ An interactive Power BI dashboard for exploring employee workforce metrics acros
 
 ## Dashboard Preview
 
-![Employee Workforce Analytics Dashboard](dashboard-preview.png)
+<img width="1426" height="861" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/2cbc7aae-0899-43be-a729-2c925e8f563c" />
 
-> Replace `dashboard-preview.png` with the filename of your dashboard screenshot, or upload the screenshot to this repository using that name.
 
 ## Overview
 
