@@ -67,14 +67,6 @@ The visuals and KPI cards are intended to respond to the selected filters.
 3. If prompted, connect or refresh the source data.
 4. Use the slicers to explore the workforce metrics.
 
-## Repository Structure
-
-```text
-.
-├── README.md
-├── dashboard-preview.png
-└── Employee-Workforce-Analytics.pbix
-```
 
 Rename the `.pbix` file in this example to match the actual report filename in your repository. Include the source dataset only if you have permission to share it and it contains no sensitive employee information.
 
