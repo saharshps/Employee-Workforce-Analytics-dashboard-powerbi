@@ -76,7 +76,3 @@ Rename the `.pbix` file in this example to match the actual report filename in y
 - Confirm the units and definitions of salary and bonus measures in the Power BI model before using the report for business decisions.
 - Do not publish confidential employee-level data, personally identifiable information, or restricted company data in a public repository.
 
-## Author
-
-**Your Name**  
-Add your GitHub profile or portfolio link here.
