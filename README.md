@@ -22,8 +22,6 @@ The report's top-level cards display:
 - **Total Cities** — number of cities (shown as `14`).
 - **Total Countries** — number of countries (shown as `4`).
 
-*Values reflect the filters and data visible in the screenshot and may change when slicers are used.*
-
 ## Visuals and Insights
 
 ### 1. Department vs Salary
@@ -59,16 +57,6 @@ The visuals and KPI cards are intended to respond to the selected filters.
 - **Microsoft Power BI Desktop**
 - Power Query for data preparation (if used in the project)
 - DAX measures for calculated KPIs (if used in the project)
-
-## Getting Started
-
-1. Clone or download this repository.
-2. Open the `.pbix` report in **Power BI Desktop**.
-3. If prompted, connect or refresh the source data.
-4. Use the slicers to explore the workforce metrics.
-
-
-Rename the `.pbix` file in this example to match the actual report filename in your repository. Include the source dataset only if you have permission to share it and it contains no sensitive employee information.
 
 ## Notes
 
